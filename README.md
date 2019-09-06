@@ -12,7 +12,7 @@ Solutions to problems I could solve :P
    For example, the input [3, 4, -1, 1] should give 2. The input [1, 2, 0] should give 3.
    You can modify the input array in-place.
 
-61. Implement integer exponentiation. That is, implement the pow(x, y) function, where x and y are integers and returns x^y.
+(61). Implement integer exponentiation. That is, implement the pow(x, y) function, where x and y are integers and returns x^y.
     Do this faster than the naive method of repeated multiplication.
     For example, pow(2, 10) should return 1024.
     
