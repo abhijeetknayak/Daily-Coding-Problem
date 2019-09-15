@@ -31,7 +31,10 @@ Solutions to problems I could solve :P
     
 <71>. Using a function rand7() that returns an integer from 1 to 7 (inclusive) with uniform probability, implement a function rand5()         that returns an integer from 1 to 5 (inclusive).
 
-<73>. Given the head of a singly linked list, reverse it in-place
+<73>. Given the head of a singly linked list, reverse it in-place.
+
+<74>. Suppose you have a multiplication table that is N by N. That is, a 2D array where the value at the i-th row and j-th column is
+      (i + 1) * (j + 1) (if 0-indexed) or i * j (if 1-indexed). Given integers N and X, write a function that returns the number of           times X appears as a value in an N by N multiplication table.
 
 <75>. Given an array of numbers, find the length of the longest increasing subsequence in the array. The subsequence does not                 necessarily have to be contiguous.
       For example, given the array [0, 8, 4, 12, 2, 10, 6, 14, 1, 9, 5, 13, 3, 11, 7, 15], the longest increasing subsequence has 
