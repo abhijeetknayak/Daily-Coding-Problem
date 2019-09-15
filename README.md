@@ -15,6 +15,10 @@ Solutions to problems I could solve :P
 
 <58> Implement a queue using two stacks. Recall that a queue is a FIFO (first-in, first-out) data structure with the following methods:      enqueue, which inserts an element into the queue, and dequeue, which removes it.
 
+<60> Given a multiset of integers, return whether it can be partitioned into two subsets whose sums are the same.
+     For example, given the multiset {15, 5, 20, 10, 35, 15, 10}, it would return true, since we can split it up into
+     {15, 5, 10, 15, 10} and {20, 35}, which both add up to 55
+
 <61> Implement integer exponentiation. That is, implement the pow(x, y) function, where x and y are integers and returns x^y.
      Do this faster than the naive method of repeated multiplication.
      For example, pow(2, 10) should return 1024.
