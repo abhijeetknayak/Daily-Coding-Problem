@@ -31,4 +31,15 @@ Solutions to problems I could solve :P
     
 <71>. Using a function rand7() that returns an integer from 1 to 7 (inclusive) with uniform probability, implement a function rand5()         that returns an integer from 1 to 5 (inclusive).
 
+<73>. Given the head of a singly linked list, reverse it in-place
+
+<75>. Given an array of numbers, find the length of the longest increasing subsequence in the array. The subsequence does not                 necessarily have to be contiguous.
+      For example, given the array [0, 8, 4, 12, 2, 10, 6, 14, 1, 9, 5, 13, 3, 11, 7, 15], the longest increasing subsequence has 
+      length 6: it is 0, 2, 6, 9, 11, 15.
+
+<76>. You are given an N by M 2D matrix of lowercase letters. Determine the minimum number of columns that can be removed to ensure that       each row is ordered from top to bottom lexicographically. That is, the letter at each column is lexicographically later as you go       down each row. It does not matter whether each row itself is ordered lexicographically.
+
+<78>. Given k sorted singly linked lists, write a function to merge all the lists into one sorted singly linked list.
+
+
 
