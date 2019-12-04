@@ -48,5 +48,23 @@ Solutions to problems I could solve :P
 
 <78>. Given k sorted singly linked lists, write a function to merge all the lists into one sorted singly linked list.
 
+<155> Given a list of elements, find the majority element, which appears more than half the time (> floor(len(lst) / 2.0))
+You can assume that such element exists. For example, given [1, 2, 1, 1, 3, 4, 0], return 1.
+
+<157> Given a string, determine whether any permutation of it is a palindrome. For example, carrace should return true, since it can be rearranged to form racecar, which is a palindrome. daily should return false, since there's no rearrangement that can form a palindrome.
+
+<158> You are given an N by M matrix of 0s and 1s. Starting from the top left corner, how many ways are there to reach the bottom right corner?
+You can only move right and down. 0 represents an empty space while 1 represents a wall you cannot walk through.
+For example, given the following matrix:
+[[0, 0, 1],
+ [0, 0, 1],
+ [1, 0, 0]]
+Return two, as there are only two ways to get to the bottom right:
+Right, down, down, right
+Down, right, down, right
+The top left corner and bottom right corner will always be 0.
+
+<159> Given a string, return the first recurring character in it, or null if there is no recurring character. For example, given the string "acbbac", return "b". Given the string "abcdef", return null.
+
 
 
