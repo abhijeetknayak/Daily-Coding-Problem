@@ -48,6 +48,9 @@ Solutions to problems I could solve :P
 
 <78>. Given k sorted singly linked lists, write a function to merge all the lists into one sorted singly linked list.
 
+<81>. Given a mapping of digits to letters (as in a phone number), and a digit string, return all possible letters the number could represent. You can assume each valid number in the mapping is a single digit.
+For example if {“2”: [“a”, “b”, “c”], 3: [“d”, “e”, “f”], …} then “23” should return [“ad”, “ae”, “af”, “bd”, “be”, “bf”, “cd”, “ce”, “cf"].
+
 <155> Given a list of elements, find the majority element, which appears more than half the time (> floor(len(lst) / 2.0))
 You can assume that such element exists. For example, given [1, 2, 1, 1, 3, 4, 0], return 1.
 
