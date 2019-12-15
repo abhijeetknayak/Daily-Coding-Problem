@@ -53,6 +53,12 @@ For example if {“2”: [“a”, “b”, “c”], 3: [“d”, “e”, “f
 
 <88>. Implement division of two positive integers without using the division, multiplication, or modulus operators. Return the quotient as an integer, ignoring the remainder.
 
+<90>. Given an integer n and a list of integers l, write a function that randomly generates a number from 0 to n-1 that isn't in l (uniform).
+
+<92>. We're given a hashmap associating each courseId key with a list of courseIds values, which represents that the prerequisites of courseId are courseIds. Return a sorted ordering of courses such that we can finish all courses.
+Return null if there is no such ordering.
+For example, given {'CSC300': ['CSC100', 'CSC200'], 'CSC200': ['CSC100'], 'CSC100': []}, should return ['CSC100', 'CSC200', 'CSCS300'].
+
 <155> Given a list of elements, find the majority element, which appears more than half the time (> floor(len(lst) / 2.0))
 You can assume that such element exists. For example, given [1, 2, 1, 1, 3, 4, 0], return 1.
 
