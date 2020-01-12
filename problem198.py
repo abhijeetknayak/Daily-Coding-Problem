@@ -25,3 +25,5 @@ if __name__ == '__main__':
     print(find_max_subset(s))
     s = [2, 4, 5, 54, 65, 43, 22, 29, 78, 75]
     print(find_max_subset(s))
+    s = [1, 3, 6, 24]
+    print(find_max_subset(s))
