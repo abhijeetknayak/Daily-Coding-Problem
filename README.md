@@ -59,12 +59,12 @@ For example if {“2”: [“a”, “b”, “c”], 3: [“d”, “e”, “f
 Return null if there is no such ordering.
 For example, given {'CSC300': ['CSC100', 'CSC200'], 'CSC200': ['CSC100'], 'CSC100': []}, should return ['CSC100', 'CSC200', 'CSCS300'].
 
-<155> Given a list of elements, find the majority element, which appears more than half the time (> floor(len(lst) / 2.0))
+<155>. Given a list of elements, find the majority element, which appears more than half the time (> floor(len(lst) / 2.0))
 You can assume that such element exists. For example, given [1, 2, 1, 1, 3, 4, 0], return 1.
 
-<157> Given a string, determine whether any permutation of it is a palindrome. For example, carrace should return true, since it can be rearranged to form racecar, which is a palindrome. daily should return false, since there's no rearrangement that can form a palindrome.
+<157>. Given a string, determine whether any permutation of it is a palindrome. For example, carrace should return true, since it can be rearranged to form racecar, which is a palindrome. daily should return false, since there's no rearrangement that can form a palindrome.
 
-<158> You are given an N by M matrix of 0s and 1s. Starting from the top left corner, how many ways are there to reach the bottom right corner?
+<158>. You are given an N by M matrix of 0s and 1s. Starting from the top left corner, how many ways are there to reach the bottom right corner?
 You can only move right and down. 0 represents an empty space while 1 represents a wall you cannot walk through.
 For example, given the following matrix:
 [[0, 0, 1],
@@ -75,7 +75,10 @@ Right, down, down, right
 Down, right, down, right
 The top left corner and bottom right corner will always be 0.
 
-<159> Given a string, return the first recurring character in it, or null if there is no recurring character. For example, given the string "acbbac", return "b". Given the string "abcdef", return null.
+<159>. Given a string, return the first recurring character in it, or null if there is no recurring character. For example, given the string "acbbac", return "b". Given the string "abcdef", return null.
+
+<198>. Given a set of distinct positive integers, find the largest subset such that every pair of elements in the subset (i, j) satisfies either i % j = 0 or j % i = 0.
+For example, given the set [3, 5, 10, 20, 21], you should return [5, 10, 20]. Given [1, 3, 6, 24], return [1, 3, 6, 24].
 
 
 
